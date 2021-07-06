@@ -18,7 +18,7 @@ body{
 .nav-link{
     float:left;
     width:60%;
-    margin-left: 5%;
+    margin-left: 4%;
    
 }
 
@@ -51,7 +51,7 @@ body{
     color:white;
     display: block;
     padding:20px;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-right: 40px;
     font-size: 30px;
     font-weight: 700;
