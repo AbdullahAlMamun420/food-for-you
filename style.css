@@ -99,4 +99,34 @@ p{
     color:white;
 }
 
+/*about-me area*/
+.about-me-area{
+    background-image:url("images/shapes/7.png");
+    height: 800px;
+   background-repeat:round;
+   clear: both;
+   
+}
+
+.display-flex{
+    display:flex;
+
+}
+
+.about-half-width{
+    width:40%;
+    margin:5%;
+    padding:2%;
+}
+h2{
+    font-size: 60px;
+    color:gray;
+}
+.about-half-width img{
+    width:70%;
+    height: 752px;
+    margin-top: -85px;
+    
+}
+
 
