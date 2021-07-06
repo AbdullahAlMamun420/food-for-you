@@ -152,7 +152,7 @@ h2{
     width:20%;
     padding:24px;
      float:left;
-     margin-left: 6%;
+     margin-left: 7%;
      background-color:rgba(245, 245, 245, 0.959);
      border-radius: 35px;
      
@@ -174,7 +174,7 @@ h2{
     border-radius: 30px;
     text-align: center;
     padding-top: 50px;
-    width:77%;
+    width:81%;
     margin:0 auto;
 }
 .social-media{
@@ -189,6 +189,43 @@ h2{
 }
 .social-media p{
     font-size:15px;
+}
+
+/*discount-order-area*/
+.discount-area{
+    clear: both;
+    margin-top: 40px;
+    
+}
+.discount-order{
+    background-image:url("images/background/food-bg.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 80%;
+    margin:0 auto;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 35px;
+    padding-top: 30px;
+    box-shadow: 10px 10px 40px dimgray;
+}
+
+.discount-order h1{
+font-size: 60px;
+margin-top: 10px;
+}
+.input{
+    padding:5px;
+    margin-bottom: 20px;
+    width:600px;
+    height: 40px;
+    border:2px solid red;
+    border-color: red;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    
+    
 }
 
 
