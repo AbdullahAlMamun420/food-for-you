@@ -162,5 +162,33 @@ h2{
     height: 250px;
     border-radius: 30px;
 }
+/*social activities area*/
+.social-activities{
+    clear:both;
+    height: 250px;
+}
+.social-media-area{
+    height:130px;
+    background-color: rgba(255, 255, 255, 0.87);
+    box-shadow: 10px 10px 40px dimgray;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 50px;
+    width:77%;
+    margin:0 auto;
+}
+.social-media{
+    float:left;
+    width:25%;
+    margin-left: 5%;
+    line-height: 10px;
+}
+.social-media h3{
+    font-size: 35px;
+    line-height: 9px;
+}
+.social-media p{
+    font-size:15px;
+}
 
 
