@@ -110,7 +110,7 @@ p{
     color:white;
 }
 
-/*about-me area*/
+                                                            /*about-me area*/
 .about-me-area{
     background-image:url("images/shapes/7.png");
     height: 800px;
@@ -139,7 +139,7 @@ h2{
     margin-top: -85px;
     
 }
-/*my-recipes area*/
+                                                        /*my-recipes area*/
 .my-recipes-blog{
     text-align:center;
     width:600px;
@@ -152,7 +152,7 @@ h2{
     
 }
 
-/*recipes-item-area*/
+                                                        /*recipes-item-area*/
 .recipes-item-area{
     clear: both;
     height: 700px;
@@ -177,7 +177,7 @@ font-size: 27px;
     height: 250px;
     border-radius: 30px;
 }
-/*social area*/
+                                                    /*social area*/
 .social-activities{
     clear:both;
     height: 250px;
@@ -206,7 +206,7 @@ font-size: 27px;
     font-size:15px;
 }
 
-/*discount-order-area*/
+                                                            /*discount-order-area*/
 .discount-area{
     clear: both;
     margin-top: 40px;
@@ -242,7 +242,7 @@ font-size: 27px;
     padding-left: 20px;
     
 }
-/*footer*/
+                                                                        /*footer*/
 .footer{
     background-color: black;
     color:white;
