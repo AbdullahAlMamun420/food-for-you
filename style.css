@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin:0;
 }
-
+                                                     /*nav-section*/
 .nav-section{
     background-color:dimgray;
     height: 80px;
@@ -59,3 +59,44 @@ body{
 .nav-link li a:hover{
    color:green;
 }
+
+                                                         /*food-order-area*/
+.food-order-area{
+    height: 500px;
+    
+}
+
+h1{
+    font-size: 70px;
+    color:gray
+}
+
+p{
+    color:dimgray;
+    letter-spacing: 0.7px;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding:2%;
+
+}
+.half-width img{
+    width: 90%;
+}
+
+.link-btn{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,orange,tomato);
+    padding:10px 20px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    color:white;
+}
+
+
