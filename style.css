@@ -123,6 +123,7 @@ p{
     height: 800px;
    background-repeat:round;
    clear: both;
+   margin-bottom: 80px;
    
 }
 
@@ -158,6 +159,7 @@ h2{
     width:600px;
     margin:0 auto;
     clear: both;
+    margin-bottom: 50px;
     
 }
 .my-recipes-blog p{
@@ -217,7 +219,7 @@ font-size: 27px;
 
 .social-media h3{
     font-size: 35px;
-    line-height: 9px;
+   
 }
 
 .social-media p{
@@ -275,7 +277,7 @@ font-size: 27px;
 
 .footer h1{
     font-size: 38px;
-    line-height: 10px;
+    
 }
 
 
