@@ -5,15 +5,21 @@ body{
                                                      /*nav-section*/
 .nav-section{
     background-color:dimgray;
-    height: 80px;
+    height: 70px;
     display: flex;
     padding-bottom: 20px;
+    width:100%;
+    position:fixed;
+
+ 
 }
+
 
 .nav-link{
     float:left;
     width:60%;
     margin-left: 5%;
+   
 }
 
 .nav-title{
@@ -45,7 +51,7 @@ body{
     color:white;
     display: block;
     padding:20px;
-    margin-left: 40px;
+    margin-left: 30px;
     margin-right: 40px;
     font-size: 30px;
     font-weight: 700;
@@ -61,8 +67,13 @@ body{
 }
 
                                                          /*food-order-area*/
+.color-orange{
+color:orange;
+}
 .food-order-area{
     height: 500px;
+    padding-top: 50px;
+    
     
 }
 
@@ -154,15 +165,19 @@ h2{
      float:left;
      margin-left: 7%;
      background-color:rgba(245, 245, 245, 0.959);
-     border-radius: 35px;
+     border-radius: 35px;ৎ
+    
      
+}
+.recipes-item h3{
+font-size: 27px;
 }
 .recipes-item img{
     width:100%;
     height: 250px;
     border-radius: 30px;
 }
-/*social activities area*/
+/*social area*/
 .social-activities{
     clear:both;
     height: 250px;
@@ -206,14 +221,15 @@ h2{
     border-radius: 10px;
     text-align: center;
     margin-bottom: 35px;
-    padding-top: 30px;
+
     box-shadow: 10px 10px 40px dimgray;
 }
-
-.discount-order h1{
-font-size: 60px;
-margin-top: 10px;
+.discount-order h4{
+    font-size: 70px;
+    color:red;
 }
+
+
 .input{
     padding:5px;
     margin-bottom: 20px;
@@ -225,7 +241,19 @@ margin-top: 10px;
     font-size: 20px;
     padding-left: 20px;
     
-    
 }
+/*footer*/
+.footer{
+    background-color: black;
+    color:white;
+    height: 140px;
+    text-align: center;
+    padding:20px;
+}
+.footer h1{
+    font-size: 38px;
+    line-height: 10px;
+}
+
 
 
